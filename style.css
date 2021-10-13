@@ -1,0 +1,45 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(6, 6, 6 );
+}
+h1{
+    margin-left: 50px;
+    color: rgb(26, 71, 88);
+}
+
+table{
+    background-color: rgb(142, 216, 243 );
+    margin:50px;
+    width: 50%;
+    height: 50%;
+    font-size:xx-large;
+}
+input{
+    font-size: xx-large;
+    
+}
+input{
+    background-color: transparent;
+}
+
+#fallos{
+    border-color: red;
+}
+
+#aciertos{
+    border-color: green ;
+}
+#caracterBuscar{
+   width: auto;
+}
+
+button{
+    background-color: rgb(37, 104, 128);
+    margin-left:50px;
+    margin-top: 20px;
+    width: 50%;
+    height: 30px;
+    color: rgb(31, 31, 31);
+    font-size: 20px;
+    font-weight: bold;
+}
